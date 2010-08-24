@@ -1,0 +1,106 @@
+﻿http://www.prawo.egospodarka.pl/21733,Rodzaje-umow-pracy-i-wspolpracy,1,34,3.html
+
+(kodeks pracy, kodeks cywilny)
+
+Umowa:
+- zawarta na piśmie
+- określa:
+	- rodzaj umowy
+	- rodzaj pracy
+	- strony umowy
+	- miejsce wykonywania pracy
+	- wysokość wynagrodzenia (wskazanie składników wynagrodzenia)
+	- wymiar czasu pracy (pełny etap, pół etatu)
+	- termin rozpoczęcia
+	
+Rodzaje umów:
+1) umowa o pracę
+	- na okres próbny
+	- na czas określony
+	- umowa zastępstwo (czas określony)
+	- na czas wykonania określonej pracy
+	- na czas nieokreślony
+2) umowa zlecenie (dążanie do działania, nie musi osiągnąć konkretnego rezultatu)
+	- kontrakt menedżerski (prowadzenie firmy w celu zysku dla właściciela)
+	- umowa agencyjna (zawieranie umów na rzecz firmy)
+3) umowa o dzieło (dążanie do rezultatu)
+4) umowa o pracę nakładczą (chałupnictwo)
+5) praca na wezwanie (np. Dawid - kiedy go chcą, to dzwonią; dyżury)
+6) praca tymczasowa
+7) samozatrudnienie - jednoosobowa działalność gospodarcza
+8) wypożyczenie pracownika
+9) umowa z pracownikiem młodocianym
+10) umowa o wykonania pracy w grupi (odrębna do umowy o pracę)
+11) aneks = umowa
+
+======================================================================================
+UMOWA O PRACĘ:
+to podstawowa forma nawiązania stosunku pracy
+musi odpowiadać wymaganiom: prawa pracy i przepisom kodeksu cywilnego (kp i kc)
+
+UMOWA NA OKRES PRÓBNY:
+po okresie próbnym, jeżeli obie strony się zgadzają na dalszą współpracę, umowa staje się
+umową na czas nieokreślony.
+Do 3 miesięcy.
+Rozwiązanie za porozumieniem stron lub za wypowiedzeniem (3 dniowym, tygodniowym, dwutygodniowym itp)
+
+UMOWA NA CZAS OKREŚLONY:
+kilka miesięcy/lat.
+kolejna umowa n.cz.o. jest jednoznaczna z umową n.cz.nieo., po dwóch wcześniejszych u.n.cz.o.
+(o ile przerwa między nimi nie przekroczyła miesiąca)
+rozwiązuje się automatycznie
+nie można rozwiązać za wypowiedzeniem, jeśli na okres krótszy niż 6 miesięcy
+
+UMOWA NA CZAS WYKONANIA OKREŚLONEJ PRACY:
+w celu wykonania konkretnego zadania, gdy nie da się określić dokładnie czasu realizacji
+zadania/projektu
+wielokrotnie, bez obowiązku zmiany na u.n.cz.nieo.
+
+UMOWA O ZASTĘPSTWO:
+na czas określony
+trzymiesięczne wypowiedzenie
+powody rozwiązania/zakończenia umowy (krócej niż 6 miesięcy):
+	- powrót zastępowanego
+	- usprawiedliwiona zamieni się na nieusprawiediwioną nieobecność
+	- porozumienie stron
+
+UMOWA NA CZAS NIEOKREŚLONY:
+największa pewność zatrudnienia
+zakończenie umowy:
+	- wypowiedzenie (kodeks pracy) (przyczyna rozwiązania)
+	- wygaśnięcie z innych przyczyn
+okres wypowiedzenia wynosi:
+    - 2 tygodnie jeżeli pracownik był zatrudniony krócej niż 6 miesięcy,
+    - 1 miesiąc jeżeli pracownik był zatrudniony co najmniej 6 miesięcy ale krócej niż 3 lata,
+    - 3 miesiące jeżeli pracownik był zatrudniony u danego pracodawcy co najmniej 3 lata.
+	
+Integralną część tej umowy może stanowić np. umowa o sposobie korzystania z samochodu służbowego,
+o odpowiedzialności materialnej, o zakazie podejmowania działalności konkurencyjnej.	
+======================================================================================
+UMOWA O DZIEŁO:
+zobowiązanie do wykonania oznaczenia dzieła.
+Dziełem może być utwór muzyczny, program komputerowy, stworzenie bazy danych, napisanie artykułu, 
+zrobienie rzeźby albo każda inna działalność, w skutek której coś powstało.
+
+wykonanie nie podlega kodeksowi pracy.
+pracodawca nie bierze odpowiedzialności za warunki BHP, urlopu, odprawy, zasiłku itp.
+brak ochrony socjalnej pracownikowi
+nie ważne kiedy i w jaki sposób zostanie wykonane dzieło - ważny jest rezultat końcowy
+======================================================================================
+UMOWA ZLECENIE:
+ważna jest praca
+osoba wykonująca zlecenie ma obowiązek informowania pracodawcy (zleceniodawcy) o efektach
+wykonywania umowy, a na zakończenie przedstawić sprawozdanie z jej wykonania.
+Umowę zlecenia definiuje się jako umowę starannego działania i przeciwstawia umowie o dzieło określanej umową rezultatu. 
+nie daje pracownikowi prawa do urlopu i świadczeń socjalnych.	
+można rozwiązać w każdej chwili za wypowiedzeniem bądź porozumieniem stron.
+======================================================================================
+Aneks = umowa
+Zasada przekształcenia trzeciej umowy na czas określony w umowę na czas nieokreślony dotyczy także sytuacji, 
+gdy strony nie zawarły kolejnej umowy o pracę, ale przedłużyły czas trwania poprzedniej.
+
+Uzgodnienie między stronami w trakcie trwania umowy o pracę na czas określony dłuższego okresu wykonywania pracy 
+na podstawie tej umowy uważa się bowiem za zawarcie kolejnej umowy na czas określony (art. 251 § 2 KP). 
+Nową umowę uważa się za zawartą od dnia następującego po rozwiązaniu poprzedniej. Nie ma przy tym znaczenia, 
+czy przedłużenie umowy o pracę na czas określony będzie usprawiedliwione okolicznościami, 
+np. ukończenie kursu dokształcającego przez pracownika.
