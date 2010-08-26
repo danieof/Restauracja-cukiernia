@@ -36,3 +36,6 @@ Nowe, które przychodzą do głowy:
 	1) stworzenie struktury organizacyjnej firmy
 	2) znalezienie lokali i porównanie cen
 	3) warunki wynajmu (?)
+	4) ocena ryzyka zawodowego w miejscu pracy
+	5) pieczątka firmowa i dla właścicieli
+
